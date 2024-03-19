@@ -1,0 +1,10 @@
+.btnlogin{
+    max-width: 80px;
+}
+
+.btn{
+    border:none;
+    background: none;
+cursor: pointer;
+margin: 20px;
+}

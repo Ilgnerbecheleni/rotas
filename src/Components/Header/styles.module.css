@@ -1,0 +1,54 @@
+.userinfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:8px;
+    color:white;
+    margin-right: 8px;
+    width: 100px;
+    height: 80px;
+    font-size: 1em;
+}
+
+.userbtn{
+    background-color: aliceblue;
+    border: none;
+    border-radius: 6px;
+    width: 60px;
+    color: rgb(46, 43, 43);
+    font-size: 0.8em;
+    padding: 4px;
+}
+
+.userimg{
+    width: 50px;
+    border-radius: 100%;
+}
+
+.header{
+    width: 100vw;
+    height: 150px;
+    display: flex;
+    align-items:  center;
+    justify-content: space-between;
+    background-color: rgb(15, 15, 66);
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+justify-content: space-around;
+width: 200px;
+}
+
+.menu li{
+list-style: none;
+}
+
+.menu li a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color:white;
+    text-transform: uppercase;
+    }
+
